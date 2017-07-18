@@ -1,0 +1,105 @@
+body {
+    background: lightcoral;
+}
+
+h1.svg2code_title {
+    color: white;
+    text-align: center;
+    margin: 30px;
+}
+
+.margin-top {
+    margin-top: 15px;
+}
+
+.margin-bottom {
+    margin-bottom: 15px;
+}
+
+.svg2code_dropZone {
+    height: 300px;
+    background: lightslategrey;
+    border: 3px dotted darkslategray;
+    border-radius: 5px;
+    margin: 0 auto;
+    position: relative;
+    width: 100%;
+    display: block;
+    margin-bottom: 30px;
+}
+
+.svg2code_dropZone__text {
+    color: rgba(255, 255, 255, 0.8);
+    text-align: center;
+    width: 100%;
+    display: block;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    height: 20px;
+    margin: auto;
+}
+
+.svg2code_textarea {
+    width: 100%;
+    color: black;
+    background-color: white;
+    border: darkslategray;
+    min-height: 300px;
+}
+
+.svg2code_swag {
+    color: white;
+    text-align: right;
+    margin: 3%;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+}
+
+#demo {
+    margin: 0 auto;
+    background-size: contain;
+    height: 300px;
+    width: 300px;
+    background-color: white;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-color: darkslategray
+}
+
+.svg2code_preview {
+    color: white;
+    text-align: right;
+}
+
+.btn-secondary {
+    color: white;
+    background-image: linear-gradient(to bottom, #337ab7 0, #265a88 100%);
+}
+
+.btn-secondary:hover {
+    color: white;
+    background-color: white;
+    border-color: darkslategray;
+    background-image: linear-gradient(to bottom, lightslategrey 0, darkslategray 100%)
+}
+
+.code-p {
+    color: white;
+    text-align: center;
+
+}
+
+.lit-pic {
+    height: 62px;
+    width: 60px;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+}
+
+.radio-inline {
+    color: white;
+
+}

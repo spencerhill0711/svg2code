@@ -80,9 +80,9 @@ h1.svg2code_title {
 
 .btn-secondary:hover {
     color: white;
-    background-color: #285e8e;
-    border-color: darkslategray;
-    background-image: linear-gradient(to bottom, #285e8e 0, #285e8e 100%);
+    border-color: #285e8e;
+    background-image: linear-gradient(to bottom, #265a88 0, #285e8e 100%);
+    background-color: #3276b1;
 }
 
 .code-p {
